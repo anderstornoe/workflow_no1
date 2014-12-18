@@ -1,0 +1,27 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "A project for e-learning objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anderstornoe/workflow_no1.git"
+  },
+  "author": "Anders Tornoe",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.4.2",
+    "gulp-connect": "^2.2.0",
+    "gulp-if": "^1.2.5",
+    "gulp-minify-html": "^0.1.7",
+    "gulp-uglify": "^1.0.2",
+    "gulp-util": "^3.0.1",
+    "jquery": "^2.1.1",
+    "mustache": "^0.8.2"
+  }
+}

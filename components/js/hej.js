@@ -1,0 +1,3 @@
+function hej (){
+	alert ("hej");
+}
